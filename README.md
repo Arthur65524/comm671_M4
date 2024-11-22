@@ -7,6 +7,10 @@
 
 ~~I am finding this boring.~~
 
-  :grin: :smile:
+  :grin: :smile: :turtle:
   
 <table><tr><td>I am reallying looking forwward to the following FEWD courses</td></tr>
+
+$\color{Aquamarine}{Learning\ GitHub\ has\ really\ sparked\ my\ interest.}$
+
+<ins>See you next class.</ins>
